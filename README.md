@@ -2,4 +2,5 @@
 just a simple project
 
 
-I am  a edit white  i want to improve myself 
+I am  a edit  and   i want to improve myself 
+
